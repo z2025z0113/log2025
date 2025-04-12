@@ -1,0 +1,22 @@
+{
+  "name": "log2025",
+  "version": "1.0.0",
+  "description": "born 1995.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/z2025z0113/log2025.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/z2025z0113/log2025/issues"
+  },
+  "homepage": "https://github.com/z2025z0113/log2025#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
