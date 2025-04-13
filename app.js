@@ -6,5 +6,5 @@ app.get("/", (req, res) => {
 });
 app.listen(port, () => {
   console.log(`Example app listening on port http://127.0.0.1:${port}`);
-  //you see
+  //you see all information
 });
