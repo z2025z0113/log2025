@@ -5,7 +5,7 @@ const sqlite3 = require('sqlite3').verbose();
 const db = new sqlite3.Database('./database.db', (err) => {
   if (err) throw err;
   console.log('Connected to SQLite database');
-  // 2025-04-18 19:04:41
+  // 2025-04-18 19:04:41 2025-04-19 19:35:50
 });
 
 
